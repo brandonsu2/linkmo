@@ -1,0 +1,22 @@
+# Node
+node_modules/
+*.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
